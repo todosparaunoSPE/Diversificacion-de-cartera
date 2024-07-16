@@ -138,4 +138,4 @@ Esta aplicación permite visualizar y simular la diversificación de la cartera 
 """)
 
 # Copyright
-st.sidebar.text("© 2024 Javier Horacio Pérez Ricárdez")
+st.sidebar.text("© 2024 Todos los derechos reservados. Creado por jahoperi")
